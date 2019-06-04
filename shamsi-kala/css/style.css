@@ -1,0 +1,37 @@
+*{
+    text-align: left;
+    direction: ltl;
+    font-family: "Web Yekan";
+}
+.nav-link{
+    color: white !important;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.active{
+    background-color: #007bff;
+    border-radius: 3px;
+}
+.nav-link:hover{
+    background-color: #007bff;
+    border-radius: 3px;
+}
+.card{
+    margin-top: 40px;
+}
+.footer {
+    position: relative;
+    background-color: #212529;
+    bottom: 0;
+    height: 60px;
+}
+.footer p{
+    padding-top: 15px;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
